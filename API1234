@@ -1,0 +1,26 @@
+[
+{
+"name": "Иван",
+"arrives": "2020-08-25",
+"room": {
+"type": "double",
+"withShower": "true"
+},
+"meals": [
+"brealfast"
+]
+},
+{
+"name": "Петр",
+"arrives": "2020-09-10",
+"room": {
+"type": "single",
+"withShower": "true"
+},
+"meals": [
+"brealfast",
+"dinner",
+"supper"
+]
+}
+]
